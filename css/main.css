@@ -1,0 +1,16 @@
+body {
+  font-family: Montserrat;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  margin: 20%;
+}
+
+body div h1 {
+  font-size: 4em;
+}
+
+body div p {
+  font-size: 2em;
+}
+/*# sourceMappingURL=main.css.map */
