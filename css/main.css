@@ -2,11 +2,10 @@
 body {
   display: -ms-grid;
   display: grid;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  place-items: center;
   font-family: Montserrat;
-  margin: 20%;
+  margin: 0%;
+  height: 100vh;
 }
 
 body div h1 {

@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 body{
     display: grid;
-    align-items: center;
+    place-items: center;
     font-family: Montserrat;
-    margin: 20%;
+    margin: 0%;
+    height: 100vh;
     div{
         h1{
             font-size: 4em;
