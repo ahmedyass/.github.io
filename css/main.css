@@ -15,4 +15,13 @@ body div h1 {
 body div p {
   font-size: 2em;
 }
+
+body .cv a {
+  font-size: 2em;
+}
+
+body .cv p {
+  font-size: 1.5em;
+  font-style: italic;
+}
 /*# sourceMappingURL=main.css.map */
