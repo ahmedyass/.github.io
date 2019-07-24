@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 body {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   font-family: Montserrat;
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
   margin: 20%;
 }
 
